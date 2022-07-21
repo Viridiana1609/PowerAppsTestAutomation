@@ -8,10 +8,10 @@ resources:
       type: github
       # GitHub Repo(e.g. <FORK>/PowerAppsTestAutomation)
       # Recommended to Fork or Duplicate if custom auth flows are required
-      name: prueba1/PowerAppsTestAutomation
+      name: Viridiana1609/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com_prueba1
+      endpoint: github.com_Viridiana1609
 
 parameters:
  - name: image
